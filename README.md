@@ -2,7 +2,7 @@
 <strong>Super Lottery Game</strong> deployed on Ethereum Goerli Testnet 🎰
 
 ### 📓 Rules:
-- Players pay 0.01 ETH to participate
+- Players pay 0.01 GoerliETH to participate
 - 90% of the winnings are redistributed to the winner
 - 10% commission fees for developper
 
